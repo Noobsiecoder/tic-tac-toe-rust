@@ -1,2 +1,4 @@
-# tic-tac-toe-rust
- Tic Tac Toe game in command line, built using Rust-lang 
+# Tic Tac Toe CLI game
+
+- Tic Tac Toe game in command line
+- Built using [Rust-lang](https://www.rust-lang.org/)
