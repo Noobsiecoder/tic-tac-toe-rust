@@ -21,5 +21,5 @@
 To clone this project :
 
 ```bash
-git clone "https://github.com/Noobsiecoder/windbnb.git"
+git clone "https://github.com/Noobsiecoder/tic-tac-toe-rust.git"
 ```
